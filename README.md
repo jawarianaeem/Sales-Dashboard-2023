@@ -1,3 +1,4 @@
+# Sales-Dashboard-2023
 ## Project Objective
 
 The **Sales Dashboard 2023** provides a detailed overview of sales performance for the year 2023. It focuses on tracking key metrics such as total sales, total profit, and total quantity across various time periods. This dashboard enables businesses to identify their highest and lowest performing months, analyze profit and loss by product sub-category, and monitor sales and profit trends over time, facilitating data-driven decision-making for 2024 and beyond.
@@ -52,4 +53,4 @@ The dataset used for this project contains the following key attributes:
 ## Conclusion
 
 The **Sales Dashboard 2023** offers an in-depth look into the performance of sales, profit, and quantity throughout the year. By tracking monthly trends, product sub-category performance, and profit and loss metrics, the dashboard enables businesses to make informed decisions about future product strategies, marketing efforts, and resource allocation. The insights derived from the dashboard help identify growth opportunities and areas requiring attention, ultimately driving better business outcomes in 2024 and beyond.
-# Sales-Dashboard-2023
+
